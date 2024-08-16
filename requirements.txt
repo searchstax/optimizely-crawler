@@ -1,0 +1,5 @@
+requests
+gql[all]
+lxml
+lxml_html_clean 
+python-dotenv
