@@ -24,7 +24,7 @@ To run the Optimizely Crawler Reference Guide, follow these steps:
     ```sh
     pip install -r requirements.txt
     ```
-4. Create a .env file and add the Optimizely Singlekey and SearchStax Site Search Auth token.
+4. Create a .env file and add the Optimizely Singlekey and SearchStax Site Search Auth token. (See the .env.example file)
    
    
 
